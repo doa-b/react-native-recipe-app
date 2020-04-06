@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ee7d31-f965-437c-b3e2-195fb0f8fc28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="React Native Functional Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZIdr5N8cz1it9iwXMvfBNC7iYW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../boilerplate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROJECTS2\react_native_tutorial\recipe-app2" />
+      <recent name="C:\PROJECTS2\react_native_tutorial\recipe-app2\assets\fonts" />
+      <recent name="C:\PROJECTS2\react_native_tutorial\recipe-app2\assets" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ee7d31-f965-437c-b3e2-195fb0f8fc28" name="Default Changelist" comment="" />
+      <created>1584530737941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584530737941</updated>
+      <workItem from="1584530739107" duration="7814000" />
+      <workItem from="1584547936935" duration="5000" />
+      <workItem from="1584723573191" duration="605000" />
+      <workItem from="1584786308518" duration="12000" />
+      <workItem from="1584956390591" duration="14705000" />
+      <workItem from="1585124920548" duration="8250000" />
+      <workItem from="1585210321168" duration="9195000" />
+      <workItem from="1585386112171" duration="399000" />
+      <workItem from="1585494475088" duration="1397000" />
+      <workItem from="1585899610325" duration="14470000" />
+      <workItem from="1585993148530" duration="5399000" />
+      <workItem from="1586070229076" duration="8793000" />
+      <workItem from="1586164403839" duration="3346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584531089168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984/-1280.0.1280.984@0.0.1920.1040" timestamp="1584531089168" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1585386127572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1280.0.1280.984@0.0.1920.1040" timestamp="1585386127572" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1584956899650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1280.0.1280.984@0.0.1920.1040" timestamp="1584956899650" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584973244396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1280.984/-1280.0.1280.984@0.0.1920.1040" timestamp="1584973244396" />
+  </component>
+</project>
